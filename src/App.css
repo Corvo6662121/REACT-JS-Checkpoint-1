@@ -1,0 +1,17 @@
+#title1{
+    font: bold , 1px ;
+    margin: 20px 0 20px 50px;
+    color: aqua;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.body1{
+    color: deeppink;
+    border: bold 1px;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+body {
+    background-color: rgb(54, 54, 54);
+}
